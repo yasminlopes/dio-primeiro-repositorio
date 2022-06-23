@@ -8,7 +8,7 @@
 
 
 
-## :keyboard: Comandos do Gitoard:
+## :keyboard: Comandos do Git
 
 ```
 git init // criar novo repositório
