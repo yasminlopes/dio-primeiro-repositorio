@@ -1,14 +1,10 @@
-# :desktop_computer: Introdução ao Git e ao Github 
-
-
+# :desktop_computer: Introdução ao Git e ao Github
 
 > **Git:** Software de controle de versão.
 >
 > **Github:** Plataforma de "rede social" para programadores, onde criamos repositórios para armazenar projetos como em uma nuvem.
 
-
-
-## :keyboard: Comandos do Gitoard:
+## :keyboard: Comandos do Git
 
 ```
 git init // criar novo repositório
@@ -18,7 +14,7 @@ git init // criar novo repositório
 git status // verificar estado dos arquivos
 ```
 
-```git add 
+```git add
 git add // adicionar arquivo
 git add . // adicionar todos os arquivos
 ```
@@ -39,4 +35,3 @@ git pull // atualiza os arquivos no branch atual
 ```
 git clone // clona um repositório já existente
 ```
-
