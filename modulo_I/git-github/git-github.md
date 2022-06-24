@@ -4,6 +4,11 @@
 >
 > **Github:** Plataforma de "rede social" para programadores, onde criamos repositórios para armazenar projetos como em uma nuvem.
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 1981b68f46daf98e6dcf8f3d7021be53ab6ec967
 ## :keyboard: Comandos do Git
 
 ```
